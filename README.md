@@ -4,6 +4,8 @@
 
 **Live:** [chubiez-youtuber-finder-production.up.railway.app](https://chubiez-youtuber-finder-production.up.railway.app)
 
+> *Live deployment URL still uses the `chubiez-` prefix during pre-launch iteration. Migrates to `bemellou.com` ecosystem at launch (May 28, 2026).*
+
 ---
 
 ## What it does
